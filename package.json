@@ -1,0 +1,19 @@
+{
+  "name": "segundapractica-bonus",
+  "version": "1.0.0",
+  "description": "Bonus práctica de Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgutierrezd/Segunda-Practica-Bonus.git"
+  },
+  "author": "Daniel Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgutierrezd/Segunda-Practica-Bonus/issues"
+  },
+  "homepage": "https://github.com/dgutierrezd/Segunda-Practica-Bonus#readme"
+}
